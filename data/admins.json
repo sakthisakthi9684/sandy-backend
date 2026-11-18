@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "admin_primary_001",
+    "name": "Santhiya Admin",
+    "email": "admin@santhiyastylestone.com",
+    "password": "$2a$10$JgWsQZfEmLmy23.NBXjXc.Ki.C2zm6JGRg4UOonARRKoR0SoE/2m6",
+    "role": "admin",
+    "createdAt": "2026-11-18T07:36:26.437Z"
+  }
+]

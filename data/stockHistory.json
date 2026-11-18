@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "stk_001",
+    "product": "prod_sss_001",
+    "productName": "Royal Kundan & Pearl Choker Necklace Set",
+    "productSku": "SSS-NCK-1001",
+    "previousStock": 0,
+    "changeQuantity": 20,
+    "currentStock": 20,
+    "type": "restock",
+    "reason": "Batch Restock from Artisan Workshop",
+    "notes": "Initial festival lot received and quality checked",
+    "adminUser": "Santhiya Admin",
+    "createdAt": "2026-11-13T07:36:26.447Z"
+  },
+  {
+    "_id": "stk_002",
+    "product": "prod_sss_001",
+    "productName": "Royal Kundan & Pearl Choker Necklace Set",
+    "productSku": "SSS-NCK-1001",
+    "previousStock": 20,
+    "changeQuantity": -2,
+    "currentStock": 18,
+    "type": "sale",
+    "reason": "WhatsApp Direct Order dispatch",
+    "notes": "Order #WH-9844 dispatched to Coimbatore",
+    "adminUser": "Santhiya Admin",
+    "createdAt": "2026-11-17T07:36:26.447Z"
+  },
+  {
+    "_id": "stk_003",
+    "product": "prod_sss_006",
+    "productName": "Temple Goddess Lakshmi Kasu Mala Long Haar",
+    "productSku": "SSS-TMP-1006",
+    "previousStock": 5,
+    "changeQuantity": -2,
+    "currentStock": 3,
+    "type": "sale",
+    "reason": "Wedding Order Fulfilled",
+    "notes": "Dispatched to Madurai customer",
+    "adminUser": "Santhiya Admin",
+    "createdAt": "2026-11-16T07:36:26.447Z"
+  },
+  {
+    "_id": "stk_004",
+    "product": "prod_sss_008",
+    "productName": "Minimalist Diamond Droplet Pendant & Studs",
+    "productSku": "SSS-STN-1008",
+    "previousStock": 4,
+    "changeQuantity": -4,
+    "currentStock": 0,
+    "type": "sale",
+    "reason": "Sold out via WhatsApp Flash Sale",
+    "notes": "Awaiting supplier restock lot",
+    "adminUser": "Santhiya Admin",
+    "createdAt": "2026-11-17T19:36:26.447Z"
+  }
+]

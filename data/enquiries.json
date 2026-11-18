@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "enq_001",
+    "customerName": "Priya Sundaram",
+    "whatsappNumber": "9840123456",
+    "email": "priya.s@gmail.com",
+    "city": "Chennai",
+    "address": "Anna Nagar, Chennai, Tamil Nadu",
+    "product": "prod_sss_001",
+    "productDetails": {
+      "name": "Royal Kundan & Pearl Choker Necklace Set",
+      "sku": "SSS-NCK-1001",
+      "price": 1899,
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+    },
+    "cartItems": [],
+    "quantity": 1,
+    "totalAmount": 1899,
+    "customerMessage": "Looking for fast delivery for engagement next week. Can you share real video on WhatsApp?",
+    "orderStatus": "Contacted",
+    "adminNotes": "Shared WhatsApp video. Customer confirmed, waiting for payment screenshot.",
+    "createdAt": "2026-11-17T13:36:26.449Z"
+  },
+  {
+    "_id": "enq_002",
+    "customerName": "Kavitha Ramachandran",
+    "whatsappNumber": "9789012345",
+    "email": "kavitha.ram@outlook.com",
+    "city": "Madurai",
+    "address": "KK Nagar, Madurai, Tamil Nadu",
+    "product": "prod_sss_002",
+    "productDetails": {
+      "name": "Emerald Green American Diamond Bridal Set",
+      "sku": "SSS-BRD-1002",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80"
+    },
+    "cartItems": [],
+    "quantity": 1,
+    "totalAmount": 3499,
+    "customerMessage": "Interested in this emerald bridal set for my wedding reception. Is cod available?",
+    "orderStatus": "New",
+    "adminNotes": "New WhatsApp lead from Instagram profile.",
+    "createdAt": "2026-11-18T03:36:26.449Z"
+  },
+  {
+    "_id": "enq_003",
+    "customerName": "Divya Bharathi",
+    "whatsappNumber": "9655123987",
+    "email": "divya.b@yahoo.com",
+    "city": "Bangalore",
+    "address": "Indiranagar, Bangalore, Karnataka",
+    "product": "prod_sss_007",
+    "productDetails": {
+      "name": "Ruby & Pearl Designer Festive Combo Set",
+      "sku": "SSS-CMB-1007",
+      "price": 1799,
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+    },
+    "cartItems": [],
+    "quantity": 2,
+    "totalAmount": 3598,
+    "customerMessage": "Ordered 2 sets for Diwali gifting. Dispatched via DTDC.",
+    "orderStatus": "Shipped",
+    "adminNotes": "Tracking ID DTDC492023 shared on WhatsApp.",
+    "createdAt": "2026-11-16T07:36:26.449Z"
+  }
+]

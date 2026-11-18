@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "prod_sss_001",
+    "name": "Royal Kundan & Pearl Choker Necklace Set",
+    "sku": "SSS-NCK-1001",
+    "category": "cat_necklace",
+    "categoryName": "Necklace Sets",
+    "description": "Exquisite regal choker crafted with hand-set Kundan stones, emerald green doublet drops, and lustrous micro-pearl clusters. Comes with matching statement drop earrings and maang tikka.",
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 950,
+    "sellingPrice": 1899,
+    "originalPrice": 2899,
+    "stockQuantity": 18,
+    "lowStockThreshold": 4,
+    "isActive": true,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "Premium Brass & Copper Alloy",
+      "stoneType": "Uncut Glass Kundan & Emerald Drops",
+      "plating": "22K Matte Micro Gold Plating",
+      "weight": "85 grams (Set)",
+      "occasion": "Weddings, Engagements, Grand Receptions",
+      "careInstructions": "Avoid direct perfume spray. Keep in ziplock after wiping with soft cotton cloth.",
+      "packaging": "Velvet Lined Signature Jewellery Box"
+    },
+    "createdAt": "2026-11-13T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_002",
+    "name": "Emerald Green American Diamond Bridal Set",
+    "sku": "SSS-BRD-1002",
+    "category": "cat_bridal",
+    "categoryName": "Bridal Jewellery",
+    "description": "Breathtaking luxury bridal necklace laden with AAA+ grade Cubic Zirconia diamonds and vivid Colombian emerald doublet stones. Radiates real diamond brilliance.",
+    "images": [
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 1800,
+    "sellingPrice": 3499,
+    "originalPrice": 4999,
+    "stockQuantity": 8,
+    "lowStockThreshold": 3,
+    "isActive": true,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "High-Density Silver Alloy Base",
+      "stoneType": "AAA+ Swiss Cut Cubic Zirconia & Hydro Emeralds",
+      "plating": "Rhodium & Rose Gold Dual Tone",
+      "weight": "110 grams",
+      "occasion": "Bridal, Sangeet, High-End Soirees",
+      "careInstructions": "Store separately to prevent scratches. Clean with micro-fiber cloth.",
+      "packaging": "Luxury Hardcase Velvet Gift Box"
+    },
+    "createdAt": "2026-11-15T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_003",
+    "name": "Antique Matte Gold Peacock Jhumkas",
+    "sku": "SSS-EAR-1003",
+    "category": "cat_earrings",
+    "categoryName": "Earrings & Jhumkas",
+    "description": "Intricately carved temple jhumkas featuring dancing peacock motifs, rubellite pink stones, and cascading golden micro-beads. Ultra light and comfortable for all-day wear.",
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 320,
+    "sellingPrice": 799,
+    "originalPrice": 1299,
+    "stockQuantity": 24,
+    "lowStockThreshold": 5,
+    "isActive": true,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "Copper Alloy",
+      "stoneType": "Synthetic Ruby & Kempu Stones",
+      "plating": "Antique Matte Gold",
+      "weight": "28 grams (pair)",
+      "occasion": "Festivals, Temple Visits, Ethnic Functions",
+      "careInstructions": "Keep dry. Do not immerse in water or chemical cleansers.",
+      "packaging": "Velvet Pouch"
+    },
+    "createdAt": "2026-11-16T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_004",
+    "name": "Sparkling AD Solitaire Cocktail Ring",
+    "sku": "SSS-RNG-1004",
+    "category": "cat_rings",
+    "categoryName": "Rings",
+    "description": "Statement adjustable cocktail ring adorned with a brilliant cushion-cut center stone encircled by a double halo of glistening American diamonds. Fits any finger size.",
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 220,
+    "sellingPrice": 599,
+    "originalPrice": 999,
+    "stockQuantity": 15,
+    "lowStockThreshold": 4,
+    "isActive": true,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "Lead & Nickel Free Alloy",
+      "stoneType": "Hearts & Arrows Cut Cubic Zirconia",
+      "plating": "White Rhodium Diamond Polish",
+      "weight": "12 grams",
+      "occasion": "Cocktails, Date Nights, Modern Ethnic",
+      "careInstructions": "Wipe with soft cloth after usage.",
+      "packaging": "Premium Ring Presentation Box"
+    },
+    "createdAt": "2026-11-11T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_005",
+    "name": "Rose Gold Openable CZ Kada Bangles (Pair)",
+    "sku": "SSS-BNG-1005",
+    "category": "cat_bangles",
+    "categoryName": "Bangles & Bracelets",
+    "description": "Stunning pair of openable kada bangles finished in sleek rose gold with alternating baguette and round zircon stones. Secure side clasp mechanism for effortless wearing.",
+    "images": [
+      "https://images.unsplash.com/photo-1611591475883-9b9643db8e3a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 650,
+    "sellingPrice": 1499,
+    "originalPrice": 2299,
+    "stockQuantity": 6,
+    "lowStockThreshold": 5,
+    "isActive": true,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "specifications": {
+      "material": "High Grade Brass",
+      "stoneType": "Micro-Pave Cubic Zirconia",
+      "plating": "18K Rose Gold Flash Plating",
+      "weight": "44 grams (Pair)",
+      "occasion": "Festivals, Office Wear, Family Celebrations",
+      "careInstructions": "Avoid soap lather and sweat exposure.",
+      "packaging": "Luxury Bangle Box"
+    },
+    "createdAt": "2026-11-17T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_006",
+    "name": "Temple Goddess Lakshmi Kasu Mala Long Haar",
+    "sku": "SSS-TMP-1006",
+    "category": "cat_traditional",
+    "categoryName": "Traditional Temple Jewellery",
+    "description": "Traditional South Indian coin haar (Kasu Mala) embossed with auspicious Goddess Lakshmi motifs, flanked by ruby red stones and pearl hangings. Perfect for bridal pattu sarees.",
+    "images": [
+      "https://images.unsplash.com/photo-1611591475850-24434ff6e52d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 1200,
+    "sellingPrice": 2399,
+    "originalPrice": 3599,
+    "stockQuantity": 3,
+    "lowStockThreshold": 5,
+    "isActive": true,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "Pure Copper Alloy Base",
+      "stoneType": "Traditional Kempu Pink & Green Stones",
+      "plating": "South Indian Antique Matte Gold",
+      "weight": "92 grams",
+      "occasion": "Temple Weddings, Pujas, Bharatanatyam, Diwali",
+      "careInstructions": "Preserve in velvet pouch with silica gel packet.",
+      "packaging": "Royal Red Velvet Box"
+    },
+    "createdAt": "2026-11-08T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_007",
+    "name": "Ruby & Pearl Designer Festive Combo Set",
+    "sku": "SSS-CMB-1007",
+    "category": "cat_combos",
+    "categoryName": "Combo Sets",
+    "description": "Value gift combo featuring matching multilayered pearl necklace, matching chandelier earrings, and a free adjustable floral ring. An all-in-one festive look at an unbeatable price.",
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 850,
+    "sellingPrice": 1799,
+    "originalPrice": 2999,
+    "stockQuantity": 12,
+    "lowStockThreshold": 4,
+    "isActive": true,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "specifications": {
+      "material": "Premium Brass Base",
+      "stoneType": "Hydro Rubies, AD Stones & Fresh Shell Pearls",
+      "plating": "High Micron Gold Plating",
+      "weight": "75 grams total",
+      "occasion": "Festivals, Family Gatherings, Gifting",
+      "careInstructions": "Store pieces separately in soft compartments.",
+      "packaging": "Complete 3-in-1 Presentation Gift Box"
+    },
+    "createdAt": "2026-11-14T07:36:26.445Z"
+  },
+  {
+    "_id": "prod_sss_008",
+    "name": "Minimalist Diamond Droplet Pendant & Studs",
+    "sku": "SSS-STN-1008",
+    "category": "cat_stone",
+    "categoryName": "Stone Jewellery",
+    "description": "Understated elegance for modern wear. Pear-cut Austrian crystal droplet pendant on a delicate rose gold link chain, accompanied by matching droplet studs.",
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "purchasePrice": 280,
+    "sellingPrice": 699,
+    "originalPrice": 1099,
+    "stockQuantity": 0,
+    "lowStockThreshold": 5,
+    "isActive": true,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "specifications": {
+      "material": "Skin-friendly Stainless Steel & Brass",
+      "stoneType": "Austrian Crystals",
+      "plating": "Rose Gold PVD Coating (Anti-Tarnish)",
+      "weight": "16 grams",
+      "occasion": "Daily Wear, Casual Brunches, College, Work",
+      "careInstructions": "Water-resistant. Keep dry when swimming or bathing.",
+      "packaging": "Eco-friendly Jewellery Card & Satin Pouch"
+    },
+    "createdAt": "2026-11-12T07:36:26.445Z"
+  }
+]

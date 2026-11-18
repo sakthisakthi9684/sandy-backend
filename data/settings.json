@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "settings_main",
+    "businessName": "Santhiya Style Stone",
+    "tagline": "Trendy • Elegant • Affordable",
+    "whatsappNumber": "919876543210",
+    "displayPhone": "+91 98765 43210",
+    "email": "santhiyastylestone@gmail.com",
+    "address": "Madurai & Chennai, Tamil Nadu, India",
+    "instagramUrl": "https://www.instagram.com/santhiya_style_stone/",
+    "facebookUrl": "https://facebook.com/santhiyastylestone",
+    "announcementText": "✨ Festive Elegance Offer: Free Express Shipping Across India on Orders Above ₹999 | Direct WhatsApp Ordering Available",
+    "shippingInfo": "Pan-India Express Shipping: Dispatched with insured high-security luxury packing. Delivered within 3-7 business days across all states.",
+    "aboutUsTitle": "Santhiya Style Stone – Trendy • Elegant • Affordable Fashion Jewellery",
+    "aboutUsText": "At Santhiya Style Stone, we believe every woman deserves to radiate confidence and royalty without an exorbitant price tag. Specializing in high-grade CZ, American Diamond, antique matte finish, temple jewellery, and daily wear elegance, each design is hand-selected for craftsmanship, sparkle, and longevity.",
+    "heroBanners": [
+      {
+        "title": "Timeless Bridal & Festive Collections",
+        "subtitle": "Handpicked Royal Antique, Kundan & CZ Masterpieces",
+        "badge": "New Festive Arrivals",
+        "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1600&q=80",
+        "buttonText": "Explore Collections",
+        "buttonLink": "/collections"
+      },
+      {
+        "title": "Sparkling Everyday Glamour",
+        "subtitle": "Delicate Pendants, Stone Earrings & Designer Bangles",
+        "badge": "Trendy • Elegant • Affordable",
+        "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1600&q=80",
+        "buttonText": "Shop All Jewellery",
+        "buttonLink": "/shop"
+      }
+    ]
+  }
+]

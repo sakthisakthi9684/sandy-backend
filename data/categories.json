@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "cat_necklace",
+    "name": "Necklace Sets",
+    "slug": "necklace-sets",
+    "description": "Handcrafted royal chokers, multilayered haars, and delicate daily pendants.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 1
+  },
+  {
+    "_id": "cat_earrings",
+    "name": "Earrings & Jhumkas",
+    "slug": "earrings-jhumkas",
+    "description": "Sparkling AD stone studs, dramatic antique jhumkas, and graceful chandbalis.",
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 2
+  },
+  {
+    "_id": "cat_stone",
+    "name": "Stone Jewellery",
+    "slug": "stone-jewellery",
+    "description": "High-clarity Cubic Zirconia, American Diamond, and colorful emerald/ruby doublet stones.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 3
+  },
+  {
+    "_id": "cat_bangles",
+    "name": "Bangles & Bracelets",
+    "slug": "bangles-bracelets",
+    "description": "Kada bangles, adjustable openable bracelets, and festive sound bangles in gold polish.",
+    "image": "https://images.unsplash.com/photo-1611591475883-9b9643db8e3a?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 4
+  },
+  {
+    "_id": "cat_bridal",
+    "name": "Bridal Jewellery",
+    "slug": "bridal-jewellery",
+    "description": "Opulent bridal sets including mathapatti, choker, long haar, earrings & kamarbandh.",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 5
+  },
+  {
+    "_id": "cat_rings",
+    "name": "Rings",
+    "slug": "rings",
+    "description": "Statement cocktail rings, solitaire AD bands, and traditional floral designs.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 6
+  },
+  {
+    "_id": "cat_traditional",
+    "name": "Traditional Temple Jewellery",
+    "slug": "traditional-temple-jewellery",
+    "description": "Kemp stones, Goddess Lakshmi motifs, and antique matte gold heritage craftsmanship.",
+    "image": "https://images.unsplash.com/photo-1611591475850-24434ff6e52d?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 7
+  },
+  {
+    "_id": "cat_combos",
+    "name": "Combo Sets",
+    "slug": "combo-sets",
+    "description": "Curated value combos pairing matching necklaces, earrings, and bangles.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+    "isActive": true,
+    "displayOrder": 8
+  }
+]
